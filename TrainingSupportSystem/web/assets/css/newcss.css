@@ -1,0 +1,25 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Sep 22, 2022, 8:17:20 PM
+    Author     : HAICAO
+*/
+
+[class^="uil-"]:before,[class*=" uil-"]:before{
+    margin:10px;
+}
+
+.page-wrapper .page-content .top-header .header-bar .search-bar .menu-search input[type="text"],.page-wrapper .page-content .top-header .header-bar .search-bar .searchform input[type="text"]{
+    box-shadow:none;
+    padding:12px 15px;
+    height:40px;
+    font-size:14px;
+    display:block;
+    width:250px;
+    outline:none !important;
+    padding-right:45px;
+    opacity:0.7;
+    margin-bottom: -15px;
+}
